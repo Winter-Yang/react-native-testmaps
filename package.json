@@ -1,16 +1,19 @@
 {
-  "name": "react-native-testmaps",
-  "version": "1.0.2",
-  "description": "tn test",
+  "name": "@ywdtest/react-native-testmaps",
+  "version": "1.0.0",
+  "description": "ss",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ss"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Winter-Yang/react-native-testmaps.git"
   },
-  "author": "",
+  "author": "yangwedew",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Winter-Yang/react-native-testmaps/issues"
